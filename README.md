@@ -15,9 +15,10 @@ To run the experiment for the fashion-mnist dataset:
 $ python main.py --dataset='f-m'  --num_class=10 --c_epochs=20
 ```
 dataset:
+
 *f-m: fashion mnist 
 * mnist: mnist
-* cifar10: GcGAN-vf
+* cifar10
  
 num_class: The number of classes is 10
 
@@ -25,9 +26,9 @@ num_class: The number of classes is 10
 c_epochs: The training epochs for the classifier.
 
 tweak:  target shift setting
-	* 0: Random Dirichlet Shift. In this shift, we randomly gener-ate a label distributionPTYby employing the Dirichletdistribution with different values of the concentration parameter α.
-	* 1: Tweak-One Shift. To evaluate the performance on the largelabel probability quantification.  In our experiments,the ratio of one class is set to[0.5,0.6,0.7,0.8,0.9],respectively, while ratios of other classes are uniform,
-	* 2: Minority-Class Shift. To evaluate the performance on thesmall label probability quantification.  In our experi-ments,[20%,30%,40%,50%]classes are set to 0.001,respectively, while ratios of other classes are uniform.
+* 0: Random Dirichlet Shift. In this shift, we randomly gener-ate a label distributionPTYby employing the Dirichletdistribution with different values of the concentration parameter α.
+* 1: Tweak-One Shift. To evaluate the performance on the largelabel probability quantification.  In our experiments,the ratio of one class is set to[0.5,0.6,0.7,0.8,0.9],respectively, while ratios of other classes are uniform,
+* 2: Minority-Class Shift. To evaluate the performance on thesmall label probability quantification.  In our experi-ments,[20%,30%,40%,50%]classes are set to 0.001,respectively, while ratios of other classes are uniform.
 
 The results are shown as the output file, e.g. outputf-m010.txt
 
