@@ -15,9 +15,9 @@ To run the experiment for the fashion-mnist dataset:
 $ python main.py --dataset='f-m'  --num_class=10 --c_epochs=20
 ```
 dataset:
-	*f-m: fashion mnist 
-	* mnist: mnist
-	* cifar10: GcGAN-vf
+*f-m: fashion mnist 
+* mnist: mnist
+* cifar10: GcGAN-vf
  
 num_class: The number of classes is 10
 
