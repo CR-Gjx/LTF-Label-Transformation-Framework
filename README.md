@@ -8,7 +8,7 @@ The codes of paper "LTF: A Label Transformation Framework for Correcting Target 
 
 
 ## Training
-To train the LTF models, you need to download the pre-trained generative model in the https://drive.google.com/drive/folders/11UjBGD8LcVI2KlKJ_lFu-G9OrumvcASy?usp=sharing, and unzip it as **result** folder.
+To train the LTF models, you need to download the pre-trained generative model in the https://drive.google.com/file/d/1PaeHIvjF8VFz2_kfiUrbl49pOiuyH4bh/view?usp=sharing, and unzip it as **result** folder.
 
 To run the experiment for the fashion-mnist dataset:
 ```
