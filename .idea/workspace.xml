@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bdd30ca-3802-4fcb-8912-38e229d129e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/Readme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/KMM_PSConS_obj_withLambdaSP.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/eigdec.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/alg21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/alg31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/alg32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/alg35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/alg36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/alg51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/alg52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/classification.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/fig2d.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/fig2de1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/fig2de2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/fig2de3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/fig2dl1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/fig2dl2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/fig2dl3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/figepp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/figepp2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/figl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/figl1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/figlapp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/figlapp2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/figlf.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/figlm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/regression.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/sparse-approx.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/doc/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml-demo/Contents.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml-demo/data_6darm.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml-demo/data_boston.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml-demo/demo_ep_2d.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml-demo/demo_ep_usps.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml-demo/demo_gparm.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml-demo/demo_gpr.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml-demo/demo_gprsparse.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml-demo/demo_laplace_2d.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml-demo/demo_laplace_usps.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/Contents.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/Copyright" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/approxEP.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/approxLA.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/approximations.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/binaryEPGP.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/binaryGP.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/binaryLaplaceGP.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covConst.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covFunctions.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covLINard.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covLINone.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covMatern3iso.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covMatern5iso.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covNNone.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covNoise.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covPeriodic.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covProd.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covRQard.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covRQiso.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covSEard.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covSEiso.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/covSum.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/cumGauss.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/gauher.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/gpr.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/gpr2.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/gprSRPP.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/likelihoods.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/logistic.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/minimize.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/solve_chol.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/solve_chol.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/sq_dist.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpml-matlab/gpml/sq_dist.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/gpr_multi.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/minimize.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/pdinv.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/rbf_dot.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/sq_dist.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/algorithms/vec2mat.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/betaEM_targetshift.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/betaKMM_LS_GeTarS.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/Code-TarS/betaKMM_targetshift.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/kun_tars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/mmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Regression Synthetic Data/spectral_norm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Read_results.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/biggan_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/biggan_model_cifar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/losses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_resnet32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/LTF_cifar.pbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/LTF_cifarm.pbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/LTF_cifarone.pbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/LTF_fm.pbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/LTF_fmm.pbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/LTF_fmone.pbs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spectral_norm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sync_batchnorm/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sync_batchnorm/batchnorm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sync_batchnorm/batchnorm_reimpl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sync_batchnorm/comm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sync_batchnorm/replicate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sync_batchnorm/unittest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils_BBSE.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils_RLLS.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LTF_Label_Transformation_Framework$label_shift_regression.coverage" NAME="label_shift_regression Coverage Results" MODIFIED="1627654706800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Regression Synthetic Data" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Regression Synthetic Data/label_shift_regression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="41" column="73" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
+              <folding>
+                <element signature="e#252#289#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Regression Synthetic Data/kun_tars.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Regression Synthetic Data/label_shift_regression.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="25" />
+    <option name="width" value="1920" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LTF-Label-Transformation-Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LTF-Label-Transformation-Framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LTF-Label-Transformation-Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LTF-Label-Transformation-Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Regression Synthetic Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LTF-Label-Transformation-Framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LTF-Label-Transformation-Framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Regression Synthetic Data" type="462c0819:PsiDirectoryNode" />
+              <item name="Code-TarS" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Regression Synthetic Data" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="label_shift_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="LTF-Label-Transformation-Framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="sftp://jguo6649@10.165.232.245:22/share2/jguo6649/leakgan/venv/bin/python3.5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regression Synthetic Data" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regression Synthetic Data/label_shift_regression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.label_shift_regression" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bdd30ca-3802-4fcb-8912-38e229d129e0" name="Default Changelist" comment="" />
+      <created>1627654354018</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627654354018</updated>
+      <workItem from="1627654356197" duration="683000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="683000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1055" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Remote Host" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Regression Synthetic Data/kun_tars.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Regression Synthetic Data/label_shift_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="41" column="73" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
+          <folding>
+            <element signature="e#252#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
